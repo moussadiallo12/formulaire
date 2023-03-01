@@ -19,12 +19,12 @@ width: 49%;
 
 }
 .form-control{
-    width: 100%;
+    width: 75%;
     position: relative;
     padding: 0px !important;
-    margin-left:39px ;
+    margin-left:25px ;
     line-height: 1.5;
-    font-weight: 400;
+    font-weight: 4000;
     margin-bottom: 2%;
     border-width: 0 0 4px 0 !important;
     border-radius: 0;
@@ -43,13 +43,14 @@ h1{
     text-align: center;
 }
 img{
-    width: 35%;
+    width: 45%;
     bottom: 25%;
     position: absolute;
-    margin-left: 60px;
+    margin-left: 50px;
 }
 .text{
     border:#fff;
     margin-right: 150px;
-    width: 500PX;
+    width:400PX;
 }
+
